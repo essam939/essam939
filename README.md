@@ -1,16 +1,16 @@
-### Hi there 👋
+<h1> Hi there, I'm mohamed essam 👋</h1>
 
-<!--
-**mido9000/mido9000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm a Flutter developer
 
-Here are some ideas to get you started:
+- 👉 I'm a Mobile developer
+- 💚 Would Love to: Make applications that helps people 🧗‍♂️
+- 🌱 Current focus: Make my clients happy with beautiful designs
+- 🥅 2021 Goals: Contribute more to Open Source projects
+- ⚡ Fun fact: I love to read books. 🥰
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### Connect with me:
+
+<a href="https://www.linkedin.com/in/mohamed-essam-554a6690/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a>
+
+<br />
