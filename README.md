@@ -5,7 +5,7 @@
 - 👉 I'm a Mobile developer
 - 💚 Would Love to: Make applications that helps people 🧗‍♂️
 - 🌱 Current focus: Make my clients happy with beautiful designs
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to read books. 🥰
 
 
